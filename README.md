@@ -37,7 +37,7 @@ You can see the 6 projects available for you to join below that will be run/lead
 >
 > We are basically building a improved version of [this awesome project](http://latentflip.com/loupe/)
 >
-> [Project Repo](https://github.com/r4pt0s/master_the_event_loop)
+> [Project Repo](https://github.com/r4pt0s/master_the_event_loop) | [Join Project](https://discordapp.com/channels/423464391791476747/668911982371536904/669203649704230912)
 
 # New To Opensource Projects
 
